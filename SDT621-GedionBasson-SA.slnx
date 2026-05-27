@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="SectionB-Q1.1/SectionB-Q1.1.csproj" />
   <Project Path="SectionB-Q1.2/SectionB-Q1.2.csproj" />
+  <Project Path="SectionC-MobileStockCaptureApp/SectionC-MobileStockCaptureApp.csproj" Id="b057fd00-c709-4e18-bb0f-1523312a590e" />
 </Solution>
