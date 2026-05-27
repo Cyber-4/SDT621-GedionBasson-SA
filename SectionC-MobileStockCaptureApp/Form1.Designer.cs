@@ -105,6 +105,7 @@
             btnAdd.TabIndex = 7;
             btnAdd.Text = "Add";
             btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnDelete
             // 
@@ -114,6 +115,7 @@
             btnDelete.TabIndex = 8;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // btnFind
             // 
@@ -123,6 +125,7 @@
             btnFind.TabIndex = 9;
             btnFind.Text = "Find";
             btnFind.UseVisualStyleBackColor = true;
+            btnFind.Click += btnFind_Click;
             // 
             // Form1
             // 
